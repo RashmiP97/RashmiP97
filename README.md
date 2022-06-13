@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rashmi Wijerathna</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmip97&label=Profile%20views&color=0e75b6&style=flat" alt="rashmip97" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7ImI.gif">
 
 <p align="left"> <a href="https://twitter.com/@pabodarashmi" target="blank"><img src="https://img.shields.io/twitter/follow/@pabodarashmi?logo=twitter&style=for-the-badge" alt="@pabodarashmi" /></a> </p>
 
