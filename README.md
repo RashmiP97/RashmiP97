@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@pabodarashmi" target="blank"><img src="https://img.shields.io/twitter/follow/@pabodarashmi?logo=twitter&style=for-the-badge" alt="@pabodarashmi" /></a> </p>
 
-- 🔭 I’m currently working on **ERP System project**
+- 🔭 I have worked on **ERP System project**
 
-- 🌱 I’m currently learning **Java, ReactJS, NodeJS**
+- 🌱 I’m currently learning **Java, ReactJS, NodeJS, .NET, Angular, C#**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
